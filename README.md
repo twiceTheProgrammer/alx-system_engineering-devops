@@ -1,1 +1,1 @@
-Learning system devops mainly shell/bash scripts
+Learning system devops  shell/bash scripts
